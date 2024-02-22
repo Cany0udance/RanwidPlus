@@ -1,4 +1,4 @@
-package basicmod.interfaces;
+package ranwidplus.interfaces;
 
 public class MyOwnDialogueClass {
 

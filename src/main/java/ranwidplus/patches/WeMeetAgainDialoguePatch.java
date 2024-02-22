@@ -1,7 +1,6 @@
-package basicmod.patches;
+package ranwidplus.patches;
 
-import basicmod.RanwidPlus;
-import basicmod.interfaces.MyOwnDialogueClass;
+import ranwidplus.interfaces.MyOwnDialogueClass;
 import com.evacipated.cardcrawl.modthespire.lib.*;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.core.CardCrawlGame;

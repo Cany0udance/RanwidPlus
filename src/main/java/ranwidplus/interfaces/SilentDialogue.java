@@ -1,4 +1,4 @@
-package basicmod.interfaces;
+package ranwidplus.interfaces;
 
 import com.megacrit.cardcrawl.cards.green.*;
 import com.megacrit.cardcrawl.potions.CunningPotion;
